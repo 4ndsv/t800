@@ -1,0 +1,16 @@
+C:\@Pessoal\t800\t800\bin\Debug\net5.0\t800.exe
+C:\@Pessoal\t800\t800\bin\Debug\net5.0\t800.deps.json
+C:\@Pessoal\t800\t800\bin\Debug\net5.0\t800.runtimeconfig.json
+C:\@Pessoal\t800\t800\bin\Debug\net5.0\t800.runtimeconfig.dev.json
+C:\@Pessoal\t800\t800\bin\Debug\net5.0\t800.dll
+C:\@Pessoal\t800\t800\bin\Debug\net5.0\ref\t800.dll
+C:\@Pessoal\t800\t800\bin\Debug\net5.0\t800.pdb
+C:\@Pessoal\t800\t800\obj\Debug\net5.0\t800.csprojAssemblyReference.cache
+C:\@Pessoal\t800\t800\obj\Debug\net5.0\t800.GeneratedMSBuildEditorConfig.editorconfig
+C:\@Pessoal\t800\t800\obj\Debug\net5.0\t800.AssemblyInfoInputs.cache
+C:\@Pessoal\t800\t800\obj\Debug\net5.0\t800.AssemblyInfo.cs
+C:\@Pessoal\t800\t800\obj\Debug\net5.0\t800.csproj.CoreCompileInputs.cache
+C:\@Pessoal\t800\t800\obj\Debug\net5.0\t800.dll
+C:\@Pessoal\t800\t800\obj\Debug\net5.0\ref\t800.dll
+C:\@Pessoal\t800\t800\obj\Debug\net5.0\t800.pdb
+C:\@Pessoal\t800\t800\obj\Debug\net5.0\t800.genruntimeconfig.cache
